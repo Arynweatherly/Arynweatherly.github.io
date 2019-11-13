@@ -3219,3 +3219,16 @@ input, select, textarea {
 			}
 
 	}
+
+	.techIcon {
+		width:3rem !important;
+		height: auto !important;
+
+	}
+
+	.iconContainer {
+		list-style: none !important;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+	}
